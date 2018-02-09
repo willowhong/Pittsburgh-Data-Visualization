@@ -1,5 +1,5 @@
 # Pittsburgh-Data-Visualization
-A data visualization project that conveys the charming characteristics of Pittsburgh.
+A data visualization project that conveys the charming characteristics of Pittsburgh. Please see "cover pic" for what the project looks like.
 
 # How to play
 Press the "Q"/"A" key for showing/hiding the "steps" data. The bigger the blue circle, the greater the number of steps there are in that location.
